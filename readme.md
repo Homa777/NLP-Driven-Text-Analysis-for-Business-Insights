@@ -1,8 +1,8 @@
 **<pre style="font-size:18px">NLP-Driven Text Analysis for Business Insights</pre>**
 
-**Dataset Citation:**
-Justifying recommendations using distantly-labeled reviews and fined-grained aspects
-Jianmo Ni, Jiacheng Li, Julian McAuley, Empirical Methods in Natural Language Processing (EMNLP), 2019
+**Dataset Information:** 
+
+[You can see information about the dataset click here](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download)
 
 
 
