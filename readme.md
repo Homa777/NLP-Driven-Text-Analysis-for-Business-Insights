@@ -1,4 +1,4 @@
-##NLP-Driven Text Analysis for Business Insights
+**NLP-Driven Text Analysis for Business Insights**
 
 **Dataset Citation:**
 Justifying recommendations using distantly-labeled reviews and fined-grained aspects
