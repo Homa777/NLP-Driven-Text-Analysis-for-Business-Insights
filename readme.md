@@ -2,7 +2,7 @@
 
 **Dataset Information:** 
 
-[You can see information about the dataset click here](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download)
+You can see information about the dataset click: [here](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download)
 
 
 
