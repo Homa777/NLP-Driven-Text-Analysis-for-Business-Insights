@@ -1,4 +1,4 @@
-**<pre style="font-size:18px">NLP-Driven Text Analysis for Business Insights**</pre>**
+**<pre style="font-size:18px">NLP-Driven Text Analysis for Business Insights</pre>**
 
 **Dataset Citation:**
 Justifying recommendations using distantly-labeled reviews and fined-grained aspects
